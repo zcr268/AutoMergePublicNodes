@@ -1,15 +1,7 @@
 proxies:
-- name: GB_speednode_0009
-  password: None
-  port: 443
-  server: 212.102.63.61
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-- name: GB_speednode_0010
-  port: 443
-  server: 212.102.63.61
+- name: GB_speednode_0014
+  port: 8443
+  server: 198.105.124.180
   skip-cert-verify: true
   tls: true
   type: http
