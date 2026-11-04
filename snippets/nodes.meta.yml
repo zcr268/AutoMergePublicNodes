@@ -26,24 +26,6 @@ proxies:
   sni: vk.com
   tls: false
   type: hysteria2
-- name: ⏳74@oneclickvpnkeys
-  password: 1671a252e2a97dc2bda4e515475931da
-  port: 50160
-  server: 132.226.226.189
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
-- name: 🇫🇷206471 | ⚡️Telegram = t.me/L...
-  obfs: salamander
-  obfs-password: 6ae3fff53efc6d7e
-  password: 541d46d8-5fc6-4d57-a7c4-9ccd3b5966eb
-  port: 20222
-  server: 51.75.118.5
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
 - name: '@Begoo_VPN ²⁹⁰'
   obfs: salamander
   obfs-password: dzcb7hv6i2kx2zze
@@ -76,30 +58,6 @@ proxies:
   port: 443
   server: 141.0.187.15
   sni: crt.onecloudstream.com
-  tls: false
-  type: hysteria2
-- name: ⏳71@oneclickvpnkeys
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: 160.187.100.109
-  skip-cert-verify: true
-  sni: 160.187.100.109
-  tls: false
-  type: hysteria2
-- name: ⏳61@oneclickvpnkeys
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: 202.146.222.174
-  skip-cert-verify: true
-  sni: https://t.me/WangCai2🇨🇳
-  tls: false
-  type: hysteria2
-- name: ⏳63@oneclickvpnkeys
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: 202.146.222.89
-  skip-cert-verify: true
-  sni: https://t.me/clashv8🇨🇳
   tls: false
   type: hysteria2
 - name: 🩵+@Azarakhsh_Proxy+🩷
@@ -265,12 +223,26 @@ proxies:
   sni: pl2.nexfile.net
   tls: false
   type: hysteria2
-- name: 🇵🇱206450 | ⚡️Telegram = t.me/L...
+- name: '@vasl_bashim #6'
   password: a35c508f-4d5d-4531-842e-6e9d43c762c0
   port: 4444
   server: 13.143.189.96
   skip-cert-verify: false
   sni: pl3.nexfile.net
+  tls: false
+  type: hysteria2
+- name: 🇺🇸206713 | ⚡️Telegram = t.me/L...
+  password: a35c508f-4d5d-4531-842e-6e9d43c762c0
+  port: 4444
+  server: 179.253.82.19
+  sni: fl3.nexfile.net
+  tls: false
+  type: hysteria2
+- name: 🧿75@oneclickvpnkeys
+  password: a35c508f-4d5d-4531-842e-6e9d43c762c0
+  port: 4444
+  server: 179.253.82.33
+  sni: fl3.nexfile.net
   tls: false
   type: hysteria2
 - name: 🍪73@oneclickvpnkeys
@@ -315,24 +287,6 @@ proxies:
   port: 443
   server: 45.91.237.78
   sni: node.aweom.su
-  tls: false
-  type: hysteria2
-- name: Telegram 🆔@Cnetvpn 🇺🇲
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: fmaznn1lrzys7ddy
-  port: 52076
-  server: giftcard.gateway-stream.com
-  skip-cert-verify: false
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: ⏳73@oneclickvpnkeys
-  password: maintell
-  port: 2053
-  server: 152.70.237.123
-  skip-cert-verify: true
-  sni: bing.com
   tls: false
   type: hysteria2
 - name: '@confiig_hub #1'
@@ -406,156 +360,6 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
-- cipher: aes-256-cfb
-  name: 'tg频道:@ripaojiedian #1'
-  password: amazonskr05
-  port: 443
-  server: 63.180.254.10
-  type: ss
-- name: 香港2|@ripaojiedian
-  network: tcp
-  password: b17e9b52db9623bd6c16eea3d7adb5b3
-  port: 44837
-  server: ench-snet-app.w-ctrip.cn
-  skip-cert-verify: true
-  sni: cm.g.doubleclick.net
-  type: trojan
-- name: 香港1|@ripaojiedian
-  network: tcp
-  password: b17e9b52db9623bd6c16eea3d7adb5b3
-  port: 14699
-  server: ench-snet-app.w-ctrip.cn
-  skip-cert-verify: true
-  sni: fe-static.deepseek.com
-  type: trojan
-- name: 香港4|@ripaojiedian
-  network: tcp
-  password: b17e9b52db9623bd6c16eea3d7adb5b3
-  port: 41495
-  server: ench-snet-app.w-ctrip.cn
-  skip-cert-verify: true
-  sni: cm.g.doubleclick.net
-  type: trojan
-- name: 美国3|@ripaojiedian
-  network: tcp
-  password: b17e9b52db9623bd6c16eea3d7adb5b3
-  port: 19466
-  server: ench-snet-app.w-ctrip.cn
-  skip-cert-verify: true
-  sni: cm.g.doubleclick.net
-  type: trojan
-- name: 香港3|@ripaojiedian
-  network: tcp
-  password: b17e9b52db9623bd6c16eea3d7adb5b3
-  port: 34926
-  server: ench-snet-app.w-ctrip.cn
-  skip-cert-verify: true
-  sni: wximg.qq.com
-  type: trojan
-- name: 香港5|@ripaojiedian
-  network: tcp
-  password: b17e9b52db9623bd6c16eea3d7adb5b3
-  port: 43638
-  server: ench-snet-app.w-ctrip.cn
-  skip-cert-verify: true
-  sni: cm.g.doubleclick.net
-  type: trojan
-- name: 台湾1|@ripaojiedian
-  network: tcp
-  password: b17e9b52db9623bd6c16eea3d7adb5b3
-  port: 47786
-  server: ench-snet-app.w-ctrip.cn
-  skip-cert-verify: true
-  sni: cm.g.doubleclick.net
-  type: trojan
-- name: 台湾2|@ripaojiedian
-  network: tcp
-  password: b17e9b52db9623bd6c16eea3d7adb5b3
-  port: 54815
-  server: ench-snet-app.w-ctrip.cn
-  skip-cert-verify: true
-  sni: cm.g.doubleclick.net
-  type: trojan
-- name: 日本1|@ripaojiedian
-  network: tcp
-  password: b17e9b52db9623bd6c16eea3d7adb5b3
-  port: 24914
-  server: ench-snet-app.w-ctrip.cn
-  skip-cert-verify: true
-  sni: cm.g.doubleclick.net
-  type: trojan
-- name: 日本2|@ripaojiedian
-  network: tcp
-  password: b17e9b52db9623bd6c16eea3d7adb5b3
-  port: 18295
-  server: ench-snet-app.w-ctrip.cn
-  skip-cert-verify: true
-  sni: cm.g.doubleclick.net
-  type: trojan
-- name: 日本3|@ripaojiedian
-  network: tcp
-  password: b17e9b52db9623bd6c16eea3d7adb5b3
-  port: 43992
-  server: ench-snet-app.w-ctrip.cn
-  skip-cert-verify: true
-  sni: wximg.qq.com
-  type: trojan
-- name: 新加坡1|@ripaojiedian
-  network: tcp
-  password: b17e9b52db9623bd6c16eea3d7adb5b3
-  port: 47966
-  server: ench-snet-app.w-ctrip.cn
-  skip-cert-verify: true
-  sni: cm.g.doubleclick.net
-  type: trojan
-- name: 新加坡2|@ripaojiedian
-  network: tcp
-  password: b17e9b52db9623bd6c16eea3d7adb5b3
-  port: 42338
-  server: ench-snet-app.w-ctrip.cn
-  skip-cert-verify: true
-  sni: cm.g.doubleclick.net
-  type: trojan
-- name: 新加坡3|@ripaojiedian
-  network: tcp
-  password: b17e9b52db9623bd6c16eea3d7adb5b3
-  port: 37212
-  server: ench-snet-app.w-ctrip.cn
-  skip-cert-verify: true
-  sni: cm.g.doubleclick.net
-  type: trojan
-- name: 韩国1|@ripaojiedian
-  network: tcp
-  password: b17e9b52db9623bd6c16eea3d7adb5b3
-  port: 29628
-  server: ench-snet-app.w-ctrip.cn
-  skip-cert-verify: true
-  sni: cm.g.doubleclick.net
-  type: trojan
-- name: 韩国2|@ripaojiedian
-  network: tcp
-  password: b17e9b52db9623bd6c16eea3d7adb5b3
-  port: 18572
-  server: ench-snet-app.w-ctrip.cn
-  skip-cert-verify: true
-  sni: cm.g.doubleclick.net
-  type: trojan
-- name: 美国1|@ripaojiedian
-  network: tcp
-  password: b17e9b52db9623bd6c16eea3d7adb5b3
-  port: 49049
-  server: ench-snet-app.w-ctrip.cn
-  skip-cert-verify: true
-  sni: fe-static.deepseek.com
-  type: trojan
-- name: 美国2|@ripaojiedian
-  network: tcp
-  password: b17e9b52db9623bd6c16eea3d7adb5b3
-  port: 17285
-  server: ench-snet-app.w-ctrip.cn
-  skip-cert-verify: true
-  sni: cm.g.doubleclick.net
-  type: trojan
 - client-fingerprint: chrome
   name: AT_speednode_0001
   network: ws
