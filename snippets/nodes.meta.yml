@@ -322,7 +322,7 @@ proxies:
   sni: vip.trapxan.ir
   tls: false
   type: hysteria2
-- name: '@vpnbaz'
+- name: '@confiig_hub #1'
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
   password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR
