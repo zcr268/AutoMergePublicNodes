@@ -1,36 +1,4 @@
 proxies:
-- client-fingerprint: firefox
-  name: 🇩🇪 德国｜06｜BGP
-  network: ws
-  port: 2053
-  server: cf01.564895.xyz
-  servername: de01.564895.xyz
-  skip-cert-verify: true
-  tfo: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: 2f4c3fc5-8fa2-4576-a583-8f98a6026887
-  ws-opts:
-    headers:
-      Host: de01.564895.xyz
-    path: /asdasd
-- client-fingerprint: firefox
-  name: 🇩🇪 德国｜07｜BGP
-  network: ws
-  port: 2096
-  server: cf02.564895.xyz
-  servername: de01.564895.xyz
-  skip-cert-verify: true
-  tfo: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: 2f4c3fc5-8fa2-4576-a583-8f98a6026887
-  ws-opts:
-    headers:
-      Host: de01.564895.xyz
-    path: /asdasd
 - name: DE_speednode_0004
   port: 443
   server: 213.109.163.119
