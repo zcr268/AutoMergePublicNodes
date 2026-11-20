@@ -1,4 +1,11 @@
 proxies:
+- name: ' 🇯🇵 20@exclavevpn'
+  password: gG1JyjbJgDmEMvdTgcD9wVOS
+  port: 443
+  server: 35.221.91.82
+  sni: www.microsoft.com
+  tls: false
+  type: hysteria2
 - name: 日本2|@ripaojiedian
   network: tcp
   password: d050aca3-9df2-4461-90ec-92373c1d7636
