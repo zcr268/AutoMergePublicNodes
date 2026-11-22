@@ -6,14 +6,6 @@ proxies:
   sni: www.microsoft.com
   tls: false
   type: hysteria2
-- name: ᴛᴇʟᴇɢʀᴀᴍ ɪᴅ = @ꜰxxɴᴇᴛ⛱
-  password: linlin-2026
-  port: 36712
-  server: 3.106.35.101
-  skip-cert-verify: true
-  sni: 3.106.35.101
-  tls: false
-  type: hysteria2
 - name: 🇺🇸139909 | ⚡️Telegram = t.me/S...
   password: qQe1z5kU8kN6SlKnDt9Ru3Qp
   port: 443
@@ -105,17 +97,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 🔵93@oneclickvpnkeys
-  obfs: salamander
-  obfs-password: c8827ab99e316c5bd414e21afa915ddf
-  password: 8294f130408299df8cab08c80bf6f819
-  port: 443
-  server: 24.233.8.109
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
-- name: 🇩🇪DE-🚀@VPNine1
+- name: ⚙️64@oneclickvpnkeys
   password: 9a9f167d-b461-466f-be50-f0ffd598a6f8
   port: 443
   server: germanyafterpool.fun
@@ -128,14 +110,6 @@ proxies:
   port: 36712
   server: 38.76.150.108
   skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: 🔵92@oneclickvpnkeys
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: vpn-hk-004.fastervpn.world
-  skip-cert-verify: true
-  sni: vpn-hk-004.fastervpn.world
   tls: false
   type: hysteria2
 - name: 'Channel : @Daily_Configs'
@@ -274,11 +248,31 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
+- name: 🇷🇺223650 | ⚡️Telegram = t.me/L...
+  obfs: salamander
+  obfs-password: nTm4oBa6QCpWoAFDVtF6mpMpfMfN8CM6
+  password: b7941807-1f4d-4bda-a878-92d708b84494
+  port: 8446
+  server: 46.8.210.33
+  skip-cert-verify: false
+  sni: litelitvalitter.rooferz.surf
+  tls: false
+  type: hysteria2
 - name: '@OutlineReleasedKey #7'
   password: ca60984f-b1f0-4073-bd33-4c75168f749a
   port: 443
   server: 45.137.201.211
   sni: wwe.fantoff.online
+  tls: false
+  type: hysteria2
+- name: 📗5@oneclickvpnkeys
+  obfs: salamander
+  obfs-password: HVD1C0uyo38mMz8B
+  password: capadmae6e0190
+  port: 443
+  server: 51.15.16.68
+  skip-cert-verify: true
+  sni: vpn.local
   tls: false
   type: hysteria2
 - name: '@v2ray_phoenix'
@@ -324,7 +318,7 @@ proxies:
   sni: cloudehouse24.ru
   tls: false
   type: hysteria2
-- name: 🇺🇸US-🚀@VPNine1
+- name: ⚙️73@oneclickvpnkeys
   password: fce629d692a7b1ad71a17dae29d8b3c6
   port: 8443
   server: 172.87.24.53
@@ -338,21 +332,6 @@ proxies:
   server: 185.156.44.99
   skip-cert-verify: true
   sni: www.amazon.com
-  tls: false
-  type: hysteria2
-- name: 🔵100@oneclickvpnkeys
-  password: linlin-2026
-  port: 36712
-  server: 13.55.52.44
-  skip-cert-verify: true
-  sni: 13.55.52.44
-  tls: false
-  type: hysteria2
-- name: 🇦🇺222181 | ⚡️Telegram = t.me/L...
-  password: linlin-2026
-  port: 36712
-  server: 3.106.35.101
-  skip-cert-verify: true
   tls: false
   type: hysteria2
 - name: '@confiig_hub #1'
@@ -415,196 +394,121 @@ proxies:
   server: 202.50.253.27
   type: ss
   udp: true
-- name: 美国4|@ripaojiedian
-  network: tcp
-  password: MiTiVPN
+- name: BE_speednode_0001
   port: 443
-  server: 167.82.76.27
-  skip-cert-verify: true
-  sni: ssl.fastly.com
-  type: trojan
-  udp: true
-- name: 日本2|@ripaojiedian
-  network: tcp
-  password: d050aca3-9df2-4461-90ec-92373c1d7636
-  port: 44184
-  server: v2jp.k1.ssnss.live
-  skip-cert-verify: true
-  type: trojan
-  udp: true
-- name: 美国5|@ripaojiedian
-  network: tcp
-  password: Mitivpn
-  port: 443
-  server: 151.101.110.219
-  skip-cert-verify: true
-  sni: ssl.fastly.com
-  type: trojan
-  udp: true
-- client-fingerprint: chrome
-  name: AT_speednode_0001
-  network: ws
-  port: 8443
-  server: au2.pad-sservice.lat
-  servername: au2.pad-sservice.lat
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: 2b0e5676-fb62-4bf0-9607-6e7818421e8e
-  ws-opts:
-    headers:
-      Host: au2.pad-service.com
-    path: /A11U
-- client-fingerprint: firefox
-  name: AT_speednode_0002
-  network: ws
-  port: 8443
-  server: 152.53.31.46
-  servername: usa3.pad-sservice.lat
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: 2b0e5676-fb62-4bf0-9607-6e7818421e8e
-  ws-opts:
-    headers:
-      Host: usa3.pad-service.com
-    path: /U1SA
-- name: BR_speednode_0003
-  network: ws
-  port: 8443
-  server: de9.pad-sservice.lat
-  servername: de9.pad-sservice.lat
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: 2b0e5676-fb62-4bf0-9607-6e7818421e8e
-  ws-opts:
-    headers:
-      Host: de9.pad-service.com
-    path: /DE9W
-- name: DE_speednode_0004
-  port: 443
-  server: 213.109.163.119
+  server: 146.70.123.98
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: DK_speednode_0005
-  port: 9002
-  server: 158.173.154.5
+- name: BR_speednode_0002
+  password: None
+  port: 9443
+  server: 152.233.16.174
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: DK_speednode_0006
+- name: DE_speednode_0003
+  password: None
+  port: 443
+  server: 149.36.50.1
+  skip-cert-verify: true
+  tls: true
+  type: http
+  udp: true
+- name: DK_speednode_0004
   port: 9002
   server: 158.173.154.1
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- client-fingerprint: chrome
-  name: ES_speednode_0007
-  network: ws
-  port: 8443
-  server: au5.pad-sservice.lat
-  servername: au5.pad-sservice.lat
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: 2b0e5676-fb62-4bf0-9607-6e7818421e8e
-  ws-opts:
-    headers:
-      Host: au5.pad-sservice.lat
-    path: /AU5W
-- name: FR_speednode_0008
-  port: 19362
-  server: 51.159.225.197
+- name: DK_speednode_0005
+  password: None
+  port: 9002
+  server: 158.173.154.4
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: FR_speednode_0009
-  port: 8090
-  server: 83.206.1.225
+- name: DK_speednode_0006
+  port: 9002
+  server: 158.173.154.5
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: FR_speednode_0010
-  password: 'null'
-  port: 23856
-  server: 51.159.225.196
+- name: FR_speednode_0007
+  port: 6103
+  server: 87.98.174.157
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-  username: 'null'
-- name: FR_speednode_0011
-  port: 23856
-  server: 51.159.225.196
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-- name: FR_speednode_0012
+- name: GB_speednode_0008
   port: 443
-  server: 82.65.162.76
+  server: 212.102.63.31
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: IE_speednode_0013
+- name: IE_speednode_0009
   port: 443
   server: 34.249.214.108
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: LV_speednode_0020
+- name: IE_speednode_0010
   port: 443
-  server: 185.219.159.15
+  server: 18.200.158.139
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: LV_speednode_0021
-  password: None
+- name: NL_speednode_0014
   port: 443
-  server: 185.219.159.16
+  server: 149.36.51.129
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: NL_speednode_0022
+- name: NL_speednode_0015
   password: 'null'
-  port: 443
-  server: 103.97.88.154
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-  username: 'null'
-- name: NL_speednode_0023
-  port: 9002
-  server: 84.17.47.124
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-- name: NL_speednode_0024
-  password: None
   port: 9002
   server: 84.17.47.148
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: NL_speednode_0025
+  username: 'null'
+- name: NL_speednode_0016
+  password: 'null'
+  port: 9002
+  server: 84.17.47.125
+  skip-cert-verify: true
+  tls: true
+  type: http
+  udp: true
+  username: 'null'
+- name: NL_speednode_0017
+  port: 9002
+  server: 84.17.47.125
+  skip-cert-verify: true
+  tls: true
+  type: http
+  udp: true
+- name: NL_speednode_0018
+  password: 'null'
+  port: 9002
+  server: 84.17.47.147
+  skip-cert-verify: true
+  tls: true
+  type: http
+  udp: true
+  username: 'null'
+- name: NL_speednode_0019
   password: None
   port: 9002
   server: 84.17.47.149
@@ -612,14 +516,7 @@ proxies:
   tls: true
   type: http
   udp: true
-- name: NL_speednode_0026
-  port: 9002
-  server: 84.17.47.125
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-- name: NL_speednode_0027
+- name: NL_speednode_0020
   password: None
   port: 9002
   server: 84.17.47.123
@@ -627,51 +524,41 @@ proxies:
   tls: true
   type: http
   udp: true
-- name: PL_speednode_0028
+- name: NL_speednode_0021
+  password: None
+  port: 9002
+  server: 84.17.47.148
+  skip-cert-verify: true
+  tls: true
+  type: http
+  udp: true
+- name: NL_speednode_0022
+  port: 9002
+  server: 84.17.47.124
+  skip-cert-verify: true
+  tls: true
+  type: http
+  udp: true
+- name: NN_speednode_0023
+  password: exaxgqkKkd0TAMrCxeonWg==
   port: 443
-  server: 31.186.220.204
+  server: usgp1-cdn-route.couldflare-cdn.com
+  tls: true
+  type: http
+  udp: true
+  username: mrwdfNTD8M79LCukCieldrqZWqs=
+- name: RO_speednode_0024
+  password: None
+  port: 9002
+  server: 193.176.84.24
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: US_speednode_0039
-  port: 8443
-  server: 44.248.167.117
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-- name: US_speednode_0040
+- name: US_speednode_0027
   port: 443
-  server: 38.247.141.135
+  server: 172.64.69.89
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: US_speednode_0041
-  port: 443
-  server: 64.98.50.100
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-- client-fingerprint: chrome
-  name: US_speednode_0042
-  port: 19167
-  server: mx001.zestapp778.com
-  servername: mx001.zestapp778.com
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: e9a8144e-5237-488a-afb1-9ca3d8d54c80
-- client-fingerprint: firefox
-  name: US_speednode_0043
-  port: 54857
-  server: 130.94.18.208
-  servername: us001.zestapp778.com
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: e9a8144e-5237-488a-afb1-9ca3d8d54c80
