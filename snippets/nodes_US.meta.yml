@@ -7,6 +7,14 @@ proxies:
   sni: vk.com
   tls: false
   type: hysteria2
+- name: 🇺🇸226662 | ⚡️Telegram = t.me/L...
+  password: YourStrongPasswordHere123!
+  port: 443
+  server: 100.62.81.246
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
 - name: US_speednode_0027
   port: 443
   server: 172.64.69.89
