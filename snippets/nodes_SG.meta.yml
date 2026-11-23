@@ -7,14 +7,6 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 🇸🇬226664 | ⚡️Telegram = t.me/L...
-  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
-  port: 443
-  server: 47.129.241.99
-  skip-cert-verify: true
-  sni: 47.129.241.99
-  tls: false
-  type: hysteria2
 - auth: 57beeeb0-03fc-4fc9-94da-7604488a7134
   name: 新加坡1|@ripaojiedian
   obfs: salamander
