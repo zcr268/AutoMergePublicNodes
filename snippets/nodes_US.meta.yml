@@ -17,6 +17,15 @@ proxies:
   sni: vk.com
   tls: false
   type: hysteria2
+- name: 🇺🇸230629 | ⚡️Telegram = t.me/L...
+  obfs: salamander
+  obfs-password: 7922smqtd5qm70fu
+  password: 5ictxgawam84vgrp
+  port: 2098
+  server: 107.181.112.141
+  sni: 107.181.112.141
+  tls: false
+  type: hysteria2
 - name: US_speednode_0027
   port: 443
   server: 172.64.69.89
